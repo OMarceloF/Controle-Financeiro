@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 13400,
+      "id": "1"
+    },
+    {
+      "name": "Conta de água",
+      "amount": -1200,
+      "id": "4"
+    },
+    {
+      "name": "Freela ",
+      "amount": 100,
+      "id": "23f3"
+    },
+    {
+      "name": "Freela ",
+      "amount": 200,
+      "id": "5cb4"
+    },
+    {
+      "id": "acfa",
+      "name": "Freela ",
+      "amount": 150
+    },
+    {
+      "id": "8bad",
+      "name": "Freela ",
+      "amount": 150
+    },
+    {
+      "id": "1a1e",
+      "name": "Freela ",
+      "amount": 150
+    },
+    {
+      "id": "54be",
+      "name": "Freela ",
+      "amount": 200
+    }
+  ]
+}
